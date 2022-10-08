@@ -1,8 +1,6 @@
-## Hi I'm Linjie 👋
+## Hi I'm Linjie <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
->  💻 developper web|Javascript HTML and CSS
-
-- 👋  Hello, I'm Front-end Developer based in Shanghai China. :house:
+> 💻 I'm Front-end Developer based in Shanghai China. :house:
 
 ### 🏗️ Learning：
 
