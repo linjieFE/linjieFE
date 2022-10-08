@@ -19,7 +19,7 @@
 
 <div>
   <img height="170" style="margin-right:12px" src="https://github-readme-stats.vercel.app/api?username=linjieFE&show_icons=true&&theme=buefy&layout=compact"/>
-  <img width="26"/>
+  <img width="22"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linjieFE&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images"/>
 </div>
 
