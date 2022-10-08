@@ -1,5 +1,12 @@
 ## Hi I'm Linjie 👋
 
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+
 >  💻 developper web|Javascript HTML and CSS
 
 - 👋  Hello, I'm Front-end Developer based in Shanghai China. :house:
@@ -12,12 +19,13 @@
 
 - 📫  If you ever want to bounce ideas off of me, please feel free to reach out. 😄
 
+
 ### ⚡ GitHub Stats
 
 <div>
-  <img height="160" style="margin-right:12px" src="https://github-readme-stats.vercel.app/api?username=linjieFE&hide=["issues"]&show_icons=true&theme=buefy"/>
+  <img height="160" style="margin-right:12px" src="https://github-readme-stats.vercel.app/api?username=linjieFE&show_icons=true&&theme=buefy&layout=compact"/>
   <img width="16"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linjieFE&layout=compact"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linjieFE&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images"/>
 </div>
 
 
